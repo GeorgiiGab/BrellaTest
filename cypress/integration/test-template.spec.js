@@ -33,4 +33,7 @@ describe('Test template', () => {
   //
   // 4) Another possible automation is for the inputNumber. Instead of typing the number in the field we can
   // write a function to click arrows up or down until it gets to a desired number.
+  //
+  // 5) It can also be verified with an automated test that if the necessary fields are not filled (in this
+  // case the email field) then submit button should be disabled.
 })
